@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_fix">
+    <sys_script_fix action="INSERT_OR_UPDATE">
+        <before>false</before>
+        <description>test</description>
+        <name>For QA Testing </name>
+        <record_for_rollback>true</record_for_rollback>
+        <script><![CDATA[function QATest(){
+	gs.info('test')
+}]]></script>
+        <sys_class_name>sys_script_fix</sys_class_name>
+        <sys_created_by>julius.pangaliman</sys_created_by>
+        <sys_created_on>2025-09-02 10:32:33</sys_created_on>
+        <sys_id>6f074b24eb73e690b8a1fa52cad0cd7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>For QA Testing </sys_name>
+        <sys_package display_value="DevOps for QA testing" source="x_acal_devops_fo_0">f5260f60eb73e690b8a1fa52cad0cde9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DevOps for QA testing">f5260f60eb73e690b8a1fa52cad0cde9</sys_scope>
+        <sys_update_name>sys_script_fix_6f074b24eb73e690b8a1fa52cad0cd7a</sys_update_name>
+        <sys_updated_by>julius.pangaliman</sys_updated_by>
+        <sys_updated_on>2025-09-02 10:32:33</sys_updated_on>
+        <unloadable>false</unloadable>
+    </sys_script_fix>
+</record_update>
