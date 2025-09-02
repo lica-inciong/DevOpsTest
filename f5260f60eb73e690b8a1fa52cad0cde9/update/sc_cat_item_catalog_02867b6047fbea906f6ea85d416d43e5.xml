@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Test Record">8fa573ec47bbea906f6ea85d416d43eb</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>lica.inciong</sys_created_by>
+        <sys_created_on>2025-09-02 13:59:31</sys_created_on>
+        <sys_id>02867b6047fbea906f6ea85d416d43e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Test Record</sys_name>
+        <sys_package display_value="DevOps for QA testing" source="x_acal_devops_fo_0">f5260f60eb73e690b8a1fa52cad0cde9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DevOps for QA testing">f5260f60eb73e690b8a1fa52cad0cde9</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_02867b6047fbea906f6ea85d416d43e5</sys_update_name>
+        <sys_updated_by>lica.inciong</sys_updated_by>
+        <sys_updated_on>2025-09-02 13:59:31</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>
